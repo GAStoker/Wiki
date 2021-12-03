@@ -1,0 +1,19 @@
+{
+  "name": "wiki",
+  "version": "1.0.0",
+  "description": "asdafawfawfawwa",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GAStoker/Wiki.git"
+  },
+  "author": "GAS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GAStoker/Wiki/issues"
+  },
+  "homepage": "https://github.com/GAStoker/Wiki#readme"
+}
